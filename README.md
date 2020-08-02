@@ -1,3 +1,6 @@
+## Cotizador de Seguros
+Un simple cotizador para practicar React. Se usó Boostrap también.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
