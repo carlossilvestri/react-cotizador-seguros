@@ -1,5 +1,5 @@
 # Cotizador de Seguros
-## Un simple cotizador para practicar React. Se usó Bootstrap también.
+## Un simple cotizador para practicar React. Se usó Skeleton como framework CSS.
 ### Échale un ojo en: https://serene-shirley-5300d9.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
